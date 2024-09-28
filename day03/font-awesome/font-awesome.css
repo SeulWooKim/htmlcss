@@ -1,0 +1,28 @@
+.box {
+  margin-top: 30px;
+}
+
+.fire {
+  background-color: #ff7979;
+  border: 1px solid #ff7979;
+  border-radius: 10px;
+
+  /* 12 3 6 9 */
+  padding: 10px 12px 10px 12px;
+  color: white;
+  font-size: 30px;
+  margin-right: 50px;
+}
+
+.message {
+  background-color: #569aff;
+  border: 1px solid #569aff;
+  border-radius: 10px;
+
+  /* 12 3 6 9 */
+  padding: 10px 12px 10px 12px;
+  color: white;
+  font-size: 30px;
+}
+
+/* icon 크기 - font-size*/

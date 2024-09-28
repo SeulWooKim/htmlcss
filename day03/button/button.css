@@ -1,0 +1,22 @@
+.member {
+  color: #73a0b8;
+  border: 1px solid red;
+  border-radius: 4px;
+  background-color; white;
+
+}
+
+
+.boxModel {
+  color: #4f584c;
+  border: 1px solid #98eccb;
+  border-radius: 4px;
+  background-color: #98eccb;
+}
+
+.background {
+    background-color: #9dd7ff;
+    border: 1px solid #9dd7ff;
+    border-radius: 4px;
+    padding-top: 2px;
+}
